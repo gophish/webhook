@@ -5,7 +5,7 @@ A simple webhook server for use with Gophish events.
 # Installation
 
 ```
-go get github.com/gophish/gophish
+go get github.com/gophish/webhook
 ```
 
 # Usage
